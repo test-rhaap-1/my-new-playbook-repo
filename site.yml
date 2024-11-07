@@ -1,0 +1,5 @@
+---
+- name: Example playbook
+  hosts: localhost
+  roles:
+    - role: my_new_collection_sshedmake_03.my_new_collection_name_03.run
